@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+  color: olive;
+  font-size: 25px;
+}
+
+li {
+  font-size: 20px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+li.important {
+  color: green;
+}
+
+#spice {
+  color: blue;
+}
+
+p {
+  font-weight: bold;
+}
